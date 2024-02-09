@@ -1,0 +1,1 @@
+void leftrotatebyone(int arr[],int n);
